@@ -1,0 +1,5 @@
+this a is test file credted in git hub newrepo to see how a file created in hub can be saved into local repo
+
+
+
+adding ths second line to see how the change made in local repor can be reflected in rmote repo
